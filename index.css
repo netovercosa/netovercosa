@@ -1,0 +1,41 @@
+.pagina{
+    background-color:burlywood
+}
+h1{
+    background-color:black;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    font-size:large;
+    text-align: justify;
+
+}
+table{
+    width: 100%;
+    text-align: center;
+    font-size: larger;
+}
+ul li{
+    margin: 5px;
+    padding: 5px;
+    
+}
+.imagemlist{
+    border-radius: 10px;
+    weight: 100px;
+    height: 150px;
+    /*margin: auto;
+    padding: 15px;
+    border: black solid;*/
+    background-size: contain;
+    
+}
+a{
+    background-color: aliceblue;
+    color: black;
+}
+a:hover{
+    background-color: black;
+    color: aliceblue;
+}
